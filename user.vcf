@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Enríquez;Jose David;;;
-FN: Jose David Enríquez
+N:Rodríguez;Álvaro;;;
+FN: Álvaro Rodríguez
 ORG: Fresenius Kabi Colombia;
-TITLE: Ingeniero de Servicio Técnico TCT
-EMAIL;type=INTERNET;type=WORK;type=pref:jose.enriquez-gonzalez@fresenius-kabi.com
-TEL;type=WORK;type=VOICE:+573184496817
+TITLE: Representante de Marca TCT
+EMAIL;type=INTERNET;type=WORK;type=pref:alvaro.rodriguez@fresenius-kabi.com
+TEL;type=WORK;type=VOICE:+57 3184496822
 item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c - 20\nPiso 40\, Bogotá;Colombia
 item1.X-ABADR:sg
 item2.URL;type=pref:www.fresenius-kabi.com/co
